@@ -22,8 +22,4 @@ Accessibility: Codex is designed to be accessible to all, regardless of your bac
 
 Embark on your coding journey with Codex today. Whether you aspire to become a software engineer, data scientist, or tech entrepreneur, Codex is your companion in mastering the language of computers. Let's code the future together!
 
-[untitled.webm](https://github.com/Shivxnshjasathi/codex/assets/116382647/9f3d4a07-9729-4e3a-86b7-2576abff3304)
-
-
-
 [untitled.webm](https://github.com/Shivxnshjasathi/codex/assets/116382647/9e3c1f15-8312-446b-a03f-2bb179065b8b)
